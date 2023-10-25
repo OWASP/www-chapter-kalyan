@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Suvam Debnath](mailto:suvam.debnath@owasp.org)
+* [Rashideo Benvansh](mailto:rashideo.benvansh@owasp.org)
