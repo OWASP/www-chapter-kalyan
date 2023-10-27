@@ -2,85 +2,54 @@
 
 layout: col-sidebar
 title: OWASP Kalyan
-tags: example-tag
+tags: application-security, cybersecurity
 region: Asia
-meetup-group:
+meetup-group: owasp-kalyan
 
 ---
 
-<div style='color:red;'>
+## Welcome to OWASP Kalyan
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome to the OWASP Kalyan Chapter, your gateway to cybersecurity excellence in the city of Kalyan, India!
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+At OWASP Kalyan, we are a dedicated community of cybersecurity professionals, enthusiasts, students, and researchers with a shared goal of promoting secure software practices and enhancing application security. Located in the vibrant city of Kalyan, we aim to create a hub of knowledge and collaboration where individuals can come together to exchange ideas, share experiences, and stay updated on the ever-evolving field of cybersecurity.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+Our Kalyan chapter is the vibrant hub where diverse talents and industries collide, sparking cutting-edge conversations in the realm of application security. We're on a mission to fortify the digital world's cybersecurity landscape and leave an indelible mark on software security practices.
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+## Upcoming Events
 
-<li>region: This is the region you are in according to our data</li>
+Stay updated with our upcoming events, workshops, and meetups. Join us for insightful discussions, hands-on training, and networking opportunities.
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+## Get Involved
 
-</div>
+Join our community and contribute to the mission of enhancing application security. Here’s how you can get involved:
 
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
-
-<!-- You should delete this comment
-
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+- **Attend Events:** Participate in our events, workshops, and meetups to learn from experts and connect with fellow cybersecurity enthusiasts.
+- **Speak:** Are you an expert in application security? Consider speaking at one of our events and sharing your knowledge with the community.
+- **Contribute:** Join hands in open-source projects, collaborate on research, and help raise awareness about cybersecurity best practices.
+- **Connect:** Engage in discussions, share resources, and stay updated with the latest news on our online platforms:
+  - [Follow us on Twitter](https://twitter.com/OWASPkalyan)
+  - [Connect on LinkedIn](https://www.linkedin.com/company/owaspkalyan)
+  - [Join our Discord Server](https://discord.gg/owasp-kalyan)
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that strives to enhance software security. Our vast range of projects, tools, documents, forums, and chapters are open and available to all individuals interested in advancing application security.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Local OWASP chapters are led by community leaders who adhere to the Chapters Policy. If you wish to make a financial contribution, we kindly request that you use the authorized online donation button.
 
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
+We extend a warm invitation to everyone to get involved in various aspects of OWASP:
 
-```
-{info.md}
+- **Projects:** Contribute to and collaborate on our diverse projects.
+- **Local Chapters:** Join or lead a chapter in your area.
+- **Events:** Participate in OWASP events and gatherings.
+- **Online Groups:** Engage in discussions and knowledge sharing.
+- **Community Slack Channel:** Join our Slack channel for real-time interaction.
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+Diversity is a fundamental value across all our initiatives. OWASP serves as an excellent platform to learn about application security, establish valuable connections, and even elevate your reputation as an expert in the field. We also encourage you to consider becoming a member or making a donation to support our ongoing efforts.
 
-{leaders.md}
+## Contact Us
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+Have questions or want to get in touch? Reach out to our chapter leader at [kashishkanojia@owasp.org](mailto:kashish.kanojia@owasp.org).
 
--->
+Join us in our mission to secure the digital world, one line of code at a time!
