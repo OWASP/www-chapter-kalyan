@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Kaylan
+title: OWASP Kalyan
 tags: example-tag
 region: Asia
 meetup-group:
