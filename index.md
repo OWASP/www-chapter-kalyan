@@ -50,6 +50,6 @@ Diversity is a fundamental value across all our initiatives. OWASP serves as an 
 
 ## Contact Us
 
-Have questions or want to get in touch? Reach out to our chapter leader at [kashishkanojia@owasp.org](mailto:kashish.kanojia@owasp.org).
+Have questions or want to get in touch? Reach out to our chapter leaderS at [rashideo.benvansh@owasp.org](mailto:rashideo.benvansh@owasp.org) and [suvam.debnath@owasp.org](mailto:suvam.debnath@owasp.org) 
 
 Join us in our mission to secure the digital world, one line of code at a time!
