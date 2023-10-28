@@ -16,40 +16,26 @@ At OWASP Kalyan, we are a dedicated community of cybersecurity professionals, en
 
 Our Kalyan chapter is the vibrant hub where diverse talents and industries collide, sparking cutting-edge conversations in the realm of application security. We're on a mission to fortify the digital world's cybersecurity landscape and leave an indelible mark on software security practices.
 
+## Our Goals of OWASP Kalyan:
+
+1. **Promoting Secure Software Practices:** OWASP Kalyan aims to promote and advocate for secure software development practices. This involves raising awareness about the importance of application security and providing guidance on how to develop software with security in mind.
+
+2. **Enhancing Application Security:** The chapter is dedicated to enhancing application security. This includes organizing events, workshops, and discussions focused on the latest trends and best practices in the field of application security.
+
+3. **Community Building:** OWASP Kalyan strives to build a vibrant community of cybersecurity professionals, enthusiasts, students, and researchers. The goal is to create a platform where individuals can connect, share experiences, and collaborate on projects related to cybersecurity.
+
+4. **Knowledge Sharing:** The chapter is committed to knowledge sharing. This involves offering mentorship programs to educate those new to cybersecurity and providing talks from industry professionals to showcase the diverse and ever-evolving field of cybersecurity.
+
+5. **Diversity and Equality:** Promoting diversity and equality in the field of cybersecurity is a core objective. The chapter aims to bring together people from various backgrounds to motivate and empower them to pursue careers in cybersecurity.
+
+6. **Networking Opportunities:** OWASP Kalyan aims to provide networking opportunities for both newcomers and seasoned veterans in the field of cybersecurity. The goal is to establish relationships and connections among like-minded individuals.
+
 ## Upcoming Events
 
 Stay updated with our upcoming events, workshops, and meetups. Join us for insightful discussions, hands-on training, and networking opportunities.
 
-## Get Involved
-
-Join our community and contribute to the mission of enhancing application security. Here’s how you can get involved:
-
-- **Attend Events:** Participate in our events, workshops, and meetups to learn from experts and connect with fellow cybersecurity enthusiasts.
-- **Speak:** Are you an expert in application security? Consider speaking at one of our events and sharing your knowledge with the community.
-- **Contribute:** Join hands in open-source projects, collaborate on research, and help raise awareness about cybersecurity best practices.
-- **Connect:** Engage in discussions, share resources, and stay updated with the latest news on our online platforms:
-  - [Follow us on Twitter](https://twitter.com/OWASPkalyan)
-  - [Connect on LinkedIn](https://www.linkedin.com/company/owaspkalyan)
-  - [Join our Discord Server](https://discord.gg/owasp-kalyan)
-
-## Participation
-
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that strives to enhance software security. Our vast range of projects, tools, documents, forums, and chapters are open and available to all individuals interested in advancing application security.
-
-Local OWASP chapters are led by community leaders who adhere to the Chapters Policy. If you wish to make a financial contribution, we kindly request that you use the authorized online donation button.
-
-We extend a warm invitation to everyone to get involved in various aspects of OWASP:
-
-- **Projects:** Contribute to and collaborate on our diverse projects.
-- **Local Chapters:** Join or lead a chapter in your area.
-- **Events:** Participate in OWASP events and gatherings.
-- **Online Groups:** Engage in discussions and knowledge sharing.
-- **Community Slack Channel:** Join our Slack channel for real-time interaction.
-
-Diversity is a fundamental value across all our initiatives. OWASP serves as an excellent platform to learn about application security, establish valuable connections, and even elevate your reputation as an expert in the field. We also encourage you to consider becoming a member or making a donation to support our ongoing efforts.
-
 ## Contact Us
 
-Have questions or want to get in touch? Reach out to our chapter leaderS at [rashideo.benvansh@owasp.org](mailto:rashideo.benvansh@owasp.org) and [suvam.debnath@owasp.org](mailto:suvam.debnath@owasp.org) 
+Have questions or want to get in touch? Reach out to our chapter leaders at [rashideo.benvansh@owasp.org](mailto:rashideo.benvansh@owasp.org) and [suvam.debnath@owasp.org](mailto:suvam.debnath@owasp.org) 
 
 Join us in our mission to secure the digital world, one line of code at a time!
