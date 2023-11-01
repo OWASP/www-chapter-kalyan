@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Kalyan
 tags: application-security, cybersecurity
 region: Asia
+country: India
 meetup-group: owasp-kalyan
 
 ---
