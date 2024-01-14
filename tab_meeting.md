@@ -28,6 +28,6 @@ tags: Mum
 <td><p>2</p></td>
 <td><p>21 Jan  2024</p></td>
 <td><p>OWASP Delhi, Kalyan, and Noida Chapters Join Hands: A Security Extravaganza</p></td>
-<td><p>09.30 PM</p></td>
+<td><p>10:00 AM</p></td>
 </tr>
   
