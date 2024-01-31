@@ -3,8 +3,10 @@
 layout: col-sidebar
 title: OWASP Kalyan
 tags: application-security, cybersecurity
+level: 1
 region: Asia
 country: India
+postal-code: 
 meetup-group: owasp-kalyan
 
 ---
